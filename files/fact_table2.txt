@@ -1,0 +1,6 @@
+FactTable: ID, D1, D2, D3, D4, Fact1, Fact2, Fact3, Fact4
+D1: D1, Col1, Col2
+D2: D2, Col1, Col2
+D3: D3, Col1, Col2
+D4: D4, Col1, Col2
+
